@@ -25,7 +25,7 @@ params:
   assets:
     favicon: "https://secure.gravatar.com/avatar/8ae80f4c2e8bc5c64089d2a16d6b94a6"
   defaultTheme: "light"
-  disableThemeToggle: true
+  disableThemeToggle: false
   socialIcons:
     - name: "email"
       url: "mailto:jithin.zachariah@icloud.com"
@@ -35,6 +35,8 @@ params:
       url: "https://links.jithinzachariah.in/github"
     - name: "x"
       url: "https://links.jithinzachariah.in/x"
+    - name: "instagram"
+      url: "https://www.instagram.com/jithinzac"
     - name: "stackoverflow"
       url: "https://links.jithinzachariah.in/stackoverflow"
     - name: "hackerrank"
@@ -44,7 +46,7 @@ params:
   profileMode:
     enabled: true
     title: "Jithin Zachariah"
-    subtitle: "Senior Software Engineer | Distributed Systems"
+    subtitle: "Software Engineer | Distributed Systems"
     # imageUrl: "https://secure.gravatar.com/avatar/8ae80f4c2e8bc5c64089d2a16d6b94a6"
     # imageWidth: 100 
     # imageHeight: 100 
