@@ -14,10 +14,10 @@ languages:
         - name: Home
           url: /
           weight: 1
-        - name: About
-          url: about/
-        - name: Blog
-          url: blog/
+        # - name: About
+        #   url: about/
+        # - name: Blog
+        #   url: blog/
         - name: Resume
           url: https://links.jithinzachariah.in/resume?utm_source=personal_website
 
