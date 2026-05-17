@@ -28,7 +28,7 @@ params:
   disableThemeToggle: true
   socialIcons:
     - name: "email"
-      url: "mailto:hello@jithinzachariah.in"
+      url: "mailto:jithin.zachariah@icloud.com"
     - name: "linkedin"
       url: "https://links.jithinzachariah.in/linkedin"
     - name: "github"
@@ -44,7 +44,7 @@ params:
   profileMode:
     enabled: true
     title: "Jithin Zachariah"
-    subtitle: "Software Engineer based in Berlin 🇩🇪"
-    imageUrl: "https://secure.gravatar.com/avatar/8ae80f4c2e8bc5c64089d2a16d6b94a6"
-    imageWidth: 100 
-    imageHeight: 100 
+    subtitle: "Senior Software Engineer | Distributed Systems"
+    # imageUrl: "https://secure.gravatar.com/avatar/8ae80f4c2e8bc5c64089d2a16d6b94a6"
+    # imageWidth: 100 
+    # imageHeight: 100 
