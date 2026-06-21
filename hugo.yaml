@@ -37,12 +37,6 @@ params:
       url: "https://links.jithinzachariah.in/x"
     - name: "instagram"
       url: "https://www.instagram.com/jithinzac"
-    - name: "stackoverflow"
-      url: "https://links.jithinzachariah.in/stackoverflow"
-    - name: "hackerrank"
-      url: "https://links.jithinzachariah.in/hackerrank"
-    - name: "medium"
-      url: "https://links.jithinzachariah.in/medium"
   profileMode:
     enabled: true
     title: "Jithin Zachariah"
